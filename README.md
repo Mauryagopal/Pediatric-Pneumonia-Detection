@@ -2,7 +2,7 @@
 
 This project focuses on detecting **pediatric pneumonia** from chest X-ray images using **deep learning**. The model leverages **transfer learning** with the **Xception architecture**, followed by custom classification layers, to achieve a test accuracy of over **95%**.
 
-![Python](https://img.shields.io/badge/Python-3.8-blue)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange)
 ![Accuracy](https://img.shields.io/badge/Test%20Accuracy-95.7%25-brightgreen)
 
