@@ -1,4 +1,4 @@
-# 🩺 PediaPneuDetect - Pediatric Pneumonia Detection using CNN & Transfer Learning
+# 🩺 Pediatric Pneumonia Detection using CNN & Transfer Learning
 
 This project focuses on detecting **pediatric pneumonia** from chest X-ray images using **deep learning**. The model leverages **transfer learning** with the **Xception architecture**, followed by custom classification layers, to achieve a test accuracy of over **95%**.
 
