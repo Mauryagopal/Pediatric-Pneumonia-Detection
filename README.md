@@ -4,7 +4,6 @@ This project focuses on detecting **pediatric pneumonia** from chest X-ray image
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Accuracy](https://img.shields.io/badge/Test%20Accuracy-95.7%25-brightgreen)
 
 ---
